@@ -6,3 +6,6 @@ venv/
 .env
 .vscode/
 .idea/
+
+# local notes
+CLAUDE.md
